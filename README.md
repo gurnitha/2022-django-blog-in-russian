@@ -122,6 +122,12 @@
         modified:   blog/views.py
 
 
+#### 13. Show articles by tag
+
+        modified:   README.md
+        modified:   blog/admin.py
+        modified:   blog/views.py
+
 
 
 
