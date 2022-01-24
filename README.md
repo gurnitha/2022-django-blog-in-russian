@@ -44,6 +44,16 @@
         modified:   blog/models.py
 
 
+#### 5. Registration of models in the admin panel
+
+        λ pip install django-ckeditor
+        λ python -m pip install django-debug-toolbar
+        λ python -m pip install Pillow
+
+        modified:   README.md
+        modified:   blog/admin.py
+        modified:   siteblog/settings.py
+        modified:   siteblog/urls.py
 
 
 
