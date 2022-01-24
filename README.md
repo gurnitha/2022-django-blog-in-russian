@@ -56,7 +56,12 @@
         modified:   siteblog/urls.py
 
 
+#### 6. Setting up the admin panel
 
+        modified:   README.md
+        modified:   blog/admin.py
+        new file:   blog/migrations/0002_auto_20220124_1154.py
+        modified:   blog/models.py
 
 
 
