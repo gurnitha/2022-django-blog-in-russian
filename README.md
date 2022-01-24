@@ -99,6 +99,11 @@
         modified:   templates/base.html
 
 
+#### 10. Pagination for articles
+
+        modified:   README.md
+        modified:   blog/templates/blog/index.html
+        modified:   blog/views.py
 
 
 
