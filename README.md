@@ -64,6 +64,20 @@
         modified:   blog/models.py
 
 
+#### 7. Menu template tag
+
+        modified:   README.md
+        modified:   blog/models.py
+        new file:   blog/templates/blog/category.html
+        new file:   blog/templates/blog/menu_tpl.html
+        new file:   blog/templatetags/__init__.py
+        new file:   blog/templatetags/menu.py
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        modified:   siteblog/settings.py
+        modified:   templates/base.html
+        new file:   templates/inc/_footer.html
+        new file:   templates/inc/_header.html
 
 
 
