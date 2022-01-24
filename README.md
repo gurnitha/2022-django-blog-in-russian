@@ -113,6 +113,14 @@
         modified:   blog/views.py
 
 
+#### 12. View individual article
+
+        modified:   README.md
+        modified:   blog/models.py
+        new file:   blog/templates/blog/single.html
+        modified:   blog/urls.py
+        modified:   blog/views.py
+
 
 
 
