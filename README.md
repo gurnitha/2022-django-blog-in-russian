@@ -87,6 +87,16 @@
         modified:   siteblog/static/js/active.js
 
 
+#### 9. Output of articles on the main page
+
+        modified:   README.md
+        modified:   blog/models.py
+        modified:   blog/templates/blog/index.html
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        modified:   django_cache/be7c5c70635fbc5edcce3cd5bc69af35.djcache
+        modified:   django_cache/c7992ab6d96eef92fdffdac20b764b53.djcache
+        modified:   templates/base.html
 
 
 
