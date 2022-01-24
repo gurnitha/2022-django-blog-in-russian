@@ -1,0 +1,1 @@
+# 2022-django-blog-in-russian
