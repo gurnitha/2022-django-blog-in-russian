@@ -146,6 +146,16 @@
         modified:   blog/templatetags/sidebar.py
 
 
+#### 16. Search
+
+        modified:   README.md
+        new file:   blog/templates/blog/search.html
+        modified:   blog/templates/blog/single.html
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        modified:   siteblog/static/style.css
+
+
 
 
 
