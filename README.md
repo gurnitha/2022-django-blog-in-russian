@@ -106,7 +106,11 @@
         modified:   blog/views.py
 
 
+#### 11. Articles by category
 
+        modified:   README.md
+        modified:   blog/urls.py
+        modified:   blog/views.py
 
 
 
