@@ -129,6 +129,14 @@
         modified:   blog/views.py
 
 
+#### 14. Display Popular Posts
+
+        modified:   README.md
+        modified:   blog/admin.py
+        new file:   blog/templates/blog/popular_posts_tpl.html
+        modified:   blog/templates/blog/single.html
+        new file:   blog/templatetags/sidebar.py
+
 
 
 
