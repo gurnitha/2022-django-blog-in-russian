@@ -138,6 +138,14 @@
         new file:   blog/templatetags/sidebar.py
 
 
+#### 15. Tag Cloud
+
+        modified:   README.md
+        modified:   blog/templates/blog/single.html
+        new file:   blog/templates/blog/tags_tpl.html
+        modified:   blog/templatetags/sidebar.py
+
+
 
 
 
