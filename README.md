@@ -80,6 +80,11 @@
         new file:   templates/inc/_header.html
 
 
+#### 8. Highlight the active menu item
+
+        modified:   README.md
+        modified:   blog/urls.py
+        modified:   siteblog/static/js/active.js
 
 
 
