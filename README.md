@@ -37,6 +37,13 @@
         new file:   templates/base.html
 
 
+#### 4. Project models
+
+        modified:   README.md
+        new file:   blog/migrations/0001_initial.py
+        modified:   blog/models.py
+
+
 
 
 
